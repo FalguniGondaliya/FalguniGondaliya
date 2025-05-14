@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript,Tailwind CSS**
 
-- 💬 Ask me about **Javascript,Python,MongoDB,BAsic React JS**
+- 💬 Ask me about **Javascript,Python,MongoDB,Basic React JS**
 
 - 📫 How to reach me **falguni0031@gmail.com**
 
